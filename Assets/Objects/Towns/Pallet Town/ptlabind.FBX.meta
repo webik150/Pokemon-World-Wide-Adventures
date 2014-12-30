@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: cce268cdc46edb6459fafa6af19b48a4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bookcase
+    100002: bookcase 1
+    100004: bookcase 2
+    100006: bookcase 3
+    100008: bookcase 4
+    100010: bookcase 5
+    100012: Box001
+    100014: Brokenmachine
+    100016: machine1
+    100018: machine1 1
+    100020: machine2
+    100022: machine2 1
+    100024: //RootNode
+    100026: table1
+    400000: bookcase
+    400002: bookcase 1
+    400004: bookcase 2
+    400006: bookcase 3
+    400008: bookcase 4
+    400010: bookcase 5
+    400012: Box001
+    400014: Brokenmachine
+    400016: machine1
+    400018: machine1 1
+    400020: machine2
+    400022: machine2 1
+    400024: //RootNode
+    400026: table1
+    2300000: bookcase
+    2300002: bookcase 1
+    2300004: bookcase 2
+    2300006: bookcase 3
+    2300008: bookcase 4
+    2300010: bookcase 5
+    2300012: Box001
+    2300014: Brokenmachine
+    2300016: machine1
+    2300018: machine1 1
+    2300020: machine2
+    2300022: machine2 1
+    2300024: table1
+    3300000: bookcase
+    3300002: bookcase 1
+    3300004: bookcase 2
+    3300006: bookcase 3
+    3300008: bookcase 4
+    3300010: bookcase 5
+    3300012: Box001
+    3300014: Brokenmachine
+    3300016: machine1
+    3300018: machine1 1
+    3300020: machine2
+    3300022: machine2 1
+    3300024: table1
+    4300000: Box001
+    4300002: bookcase
+    4300004: bookcase
+    4300006: bookcase
+    4300008: bookcase
+    4300010: machine1
+    4300012: machine2
+    4300014: machine1
+    4300016: machine2
+    4300018: bookcase
+    4300020: bookcase
+    4300022: table1
+    4300024: Brokenmachine
+    6400000: bookcase
+    6400002: bookcase 1
+    6400004: bookcase 2
+    6400006: bookcase 3
+    6400008: bookcase 4
+    6400010: bookcase 5
+    6400012: Box001
+    6400014: Brokenmachine
+    6400016: machine1
+    6400018: machine1 1
+    6400020: machine2
+    6400022: machine2 1
+    6400024: table1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0500000007
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

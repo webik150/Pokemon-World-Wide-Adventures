@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: e48c93220e1cda74e91575cf031086da
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box003
+    100004: Box016
+    100006: Box017
+    100008: DoorKnob001
+    100010: Line001
+    100012: Line003
+    100014: //RootNode
+    100016: Object001
+    100018: Tube002
+    100020: Tube003
+    100022: Tube004
+    100024: Tube005
+    100026: Wall001
+    400000: Box002
+    400002: Box003
+    400004: Box016
+    400006: Box017
+    400008: DoorKnob001
+    400010: Line001
+    400012: Line003
+    400014: //RootNode
+    400016: Object001
+    400018: Tube002
+    400020: Tube003
+    400022: Tube004
+    400024: Tube005
+    400026: Wall001
+    2300000: Box002
+    2300002: Box003
+    2300004: Box016
+    2300006: Box017
+    2300008: DoorKnob001
+    2300010: Line001
+    2300012: Line003
+    2300014: Object001
+    2300016: Tube002
+    2300018: Tube003
+    2300020: Tube004
+    2300022: Tube005
+    2300024: Wall001
+    3300000: Box002
+    3300002: Box003
+    3300004: Box016
+    3300006: Box017
+    3300008: DoorKnob001
+    3300010: Line001
+    3300012: Line003
+    3300014: Object001
+    3300016: Tube002
+    3300018: Tube003
+    3300020: Tube004
+    3300022: Tube005
+    3300024: Wall001
+    4300000: Line001
+    4300002: Wall001
+    4300004: Box002
+    4300006: Line003
+    4300008: Box003
+    4300010: Object001
+    4300012: DoorKnob001
+    4300014: Box016
+    4300016: Box017
+    4300018: Tube002
+    4300020: Tube003
+    4300022: Tube004
+    4300024: Tube005
+    6400000: Box002
+    6400002: Box003
+    6400004: Box016
+    6400006: Box017
+    6400008: DoorKnob001
+    6400010: Line001
+    6400012: Line003
+    6400014: Object001
+    6400016: Tube002
+    6400018: Tube003
+    6400020: Tube004
+    6400022: Tube005
+    6400024: Wall001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

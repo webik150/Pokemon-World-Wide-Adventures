@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3cd2e678238db8c44b6f653eefad6b72
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - messageBox: {instanceID: 0}
+  - label: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

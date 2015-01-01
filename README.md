@@ -15,7 +15,6 @@ What is not included:
  -Dependencies (see How to make this work:)
  -Sound
  -Music
- -Standart Assets
 
 How to make this work:
 
@@ -27,7 +26,7 @@ How to make this work:
     -RiverWater (free)
     -UniStorm (60$)
 3.Create a new project in unity (THIS WILL BE THE MAIN PROJECT) and name it as you like (i.e. PokemonWWA)
-4.Import all the dependencies + Standart Assets + Music and sounds (More in Music and Sounds)
+4.Import all the dependencies + Music and sounds (More in Music and Sounds)
 5.Merge the repository into the project folder
     -All the files go directly into the project folder. It should merge correctly.
 !!!!IF YOU WANT MUSIC AND/OR SOUNDS GO TO Music and Sounds!!!!

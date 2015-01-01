@@ -20,7 +20,7 @@ How to make this work:
 
 1.Fork the repo into a new folder of your choice (don't do anything with it yet!!)
 2.Make sure you have all the dependencies: (Buy them or download them, I don't care) (also always use the newest version unless told otherwise)
-    -Unity 4.6+ (free version is enough)
+    -Unity 4.6+ (free version is enough for now)
     -NGUI (95$)
     -iTween (free)
     -RiverWater (free)
